@@ -1,4 +1,4 @@
 def hello_world(name):
     print(f'hello world {name}')
-
-hello_world('Victor')
+name = 'Víctor'
+hello_world(name)
